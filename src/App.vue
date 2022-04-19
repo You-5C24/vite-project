@@ -17,8 +17,8 @@
 </template>
 
 <script setup lang="ts">
-import Header from "./components/Header/index.vue";
-import { devDependencies } from "../package.json";
+import Header from './components/Header/index.vue';
+import { devDependencies } from '../package.json';
 </script>
 
 <style></style>
